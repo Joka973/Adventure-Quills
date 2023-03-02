@@ -1,1 +1,13 @@
+add disk_main/bb3/Sonic.ar.00
+add disk_main/bb3/Sonic.ar.01
+add disk_main/bb3/Sonic.arl
+add disk_main/bb3/SonicSp.ar.00
+add disk_main/bb3/SonicSp.ar.01
+add disk_main/bb3/SonicSp.arl
+add disk_soap_shoes/bb3/Sonic.ar.00
+add disk_soap_shoes/bb3/Sonic.ar.01
+add disk_soap_shoes/bb3/Sonic.arl
+add disk_soap_shoes/bb3/SonicSp.ar.00
+add disk_soap_shoes/bb3/SonicSp.ar.01
+add disk_soap_shoes/bb3/SonicSp.arl
 add mod.ini
