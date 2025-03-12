@@ -1,0 +1,46 @@
+{
+   "Groups": [
+      {
+         "Name": "Main",
+         "DisplayName": "Configuration",
+         "Elements": [
+ 
+            {
+               "Name": "IncludeDir0",
+               "DisplayName": "Soap Shoes",
+               "Description": [
+                  "Whether or not the Soap Shoes will be enabled or disabled",
+               ],
+               "Type": "ModelEnum",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "disk_main"
+            },
+
+         ]
+      }
+   ],
+   
+   "Enums": {
+
+      "ModelEnum": [
+
+         {
+            "DisplayName": "Disabled",
+            "Value": "disk_main",
+            "Description": [
+               " ",
+            ]
+         },
+
+         {
+            "DisplayName": "Enabled",
+            "Value": "disk_soap_shoes",
+            "Description": [
+               " ",
+            ]
+         }
+      ],
+   },
+   "IniFile": "mod.ini"
+}
