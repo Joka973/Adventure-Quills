@@ -20,4 +20,5 @@ add /disk_soap_shoes/bb3/+Sonic.arl
 add /disk_soap_shoes/bb3/+SonicSp.ar.00
 add /disk_soap_shoes/bb3/+SonicSp.ar.01
 add /disk_soap_shoes/bb3/+SonicSp.arl
+add Config.json
 add mod.ini
